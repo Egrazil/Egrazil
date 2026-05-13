@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a student, studying computer science!
+I'm currently a student studying computer science, graphics, and art! 
+
+Over the Summer of 2026 I'm working on a game called Brunot, with my friends, and tinkering with tools for art pipelines.
